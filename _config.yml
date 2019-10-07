@@ -1,11 +1,11 @@
 # Site settings
 author: Jamaal Smith
-title: 
+title: My Data Journey
 header-img: img/home-bg.png
 email: jdsmith1906@gmail.com
 copyright_name: Jamaal Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A real-time journal of my adventure tackling data science
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jdsmithwes
