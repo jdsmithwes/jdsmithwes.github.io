@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " "Confronting Our Hidden Agendas in Data Science""
-date:       2019-11-19 01:41:35 +0000
+date:       2019-11-18 20:41:36 -0500
 permalink:  confronting_our_hidden_agendas_in_data_science
 ---
 
